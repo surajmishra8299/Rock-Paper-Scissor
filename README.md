@@ -25,8 +25,7 @@ No additional libraries required
 # How to Run
 - Clone this repository using the following command:
 bash
-Copy code
-git clone https://github.com/your-username/rock-paper-scissors.git
+ 
 - Navigate to the project directory:
 bash
 Copy code
